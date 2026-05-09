@@ -1,4 +1,5 @@
 # 🚀 Premium Bento Portfolio Template (Lite)
+![Bento Portfolio Preview](project2sc.png)
 
 This is a minimalist version of the Bento Portfolio. 
 
