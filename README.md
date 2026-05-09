@@ -4,7 +4,7 @@ A high-end, production-ready Bento grid portfolio designed for 2026 design trend
 ![Portfolio Screenshot](project2sc.png)
 
 ## 🚀 Live Demo
-[PASTE_YOUR_PORTFOLIO_PAGES_LINK_HERE]
+[https://bentoarchitect-studio.github.io/premium-bento-portfolio-template/]
 
 ## ✨ Features
 - **Modern Bento Layout:** Modular and responsive design.
