@@ -19,7 +19,7 @@ A high-end, production-ready Bento grid portfolio designed for 2026 design trend
 
 ## 💰 Purchase & Support
 Support the studio on Gumroad:
-[https://bentoarchitect.gumroad.com](https://bentoarchitect.gumroad.com)
+[https://bentoarchitect.gumroad.com/l/image-pro-tool)
 
 ---
 Developed by **BentoArchitect Studio**
